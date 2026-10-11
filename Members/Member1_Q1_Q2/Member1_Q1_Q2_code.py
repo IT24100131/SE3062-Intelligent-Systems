@@ -16,8 +16,8 @@ def depthFirstSearch(problem: SearchProblem):
     print("Start's successors:", problem.getSuccessors(problem.getStartState()))
     """
     "*** YOUR CODE HERE ***"
-    # Q1 (Member 1): graph-search DFS. The fringe is a LIFO Stack, so the most
-    # recently discovered node is expanded first (deepest-first).
+    # Q1 (Member 1 - IT24100131): Graph-search DFS using util.Stack (LIFO).
+    # Nodes are expanded deepest-first to find a path to the food goal.
     fringe = util.Stack()
     fringe.push((problem.getStartState(), []))
     expanded = set()
