@@ -1,11 +1,11 @@
 # Member 2 - Q3 Uniform Cost Search & Q4 A* Search
 
-**Name:** Wickramasinghe W.S.S.D  |  **Student ID:** IT24400002  |  **Group:** Group_AI_28
+**Name:** Walimuniarachchi W.A.K.S  |  **Student ID:** IT24103947  |  **Group:** Group_AI_28
 
 ## What I was responsible for
-Implemented the cost-sensitive (informed) searches.
+Assigned component: Q3 Uniform Cost Search and Q4 A* Search.
 
-## Files / functions I edited
+## Assigned files / functions
 - `search.py` -> `uniformCostSearch(problem)` (Q3)
 - `search.py` -> `aStarSearch(problem, heuristic)` (Q4)
 - Full code: `Member2_Q3_Q4_code.py`

@@ -8,9 +8,9 @@
 | Member | Student ID | Responsibilities | Feature Branch | Target Files |
 | :--- | :--- | :--- | :--- | :--- |
 | **Member 1 (Basnayake K.S)** | IT24100131 | Q1 DFS & Q2 BFS (Graph Search with Stack & Queue) | `feature/dfs-bfs` | `search.py` |
-| **Member 2 (Wickramasinghe W.S.S.D)** | IT24400002 | Q3 UCS & Q4 A* (PriorityQueue with path costs & heuristics) | `feature/ucs-astar` | `search.py` |
-| **Member 3 (Walimuniarachchi W.A.K.S)** | IT24103947 | Q5 CornersProblem (State Space Representation & Successor Logic) | `feature/corners` | `searchAgents.py` |
-| **Member 4 (Gajanayake H.K.D.W.R)** | IT24510235 | Q6 Corners Heuristic & Q7 Food Heuristic, Git Lead & Packaging | `feature/heuristics` | `searchAgents.py` |
+| **Member 2 (Walimuniarachchi W.A.K.S)** | IT24103947 | Q3 UCS & Q4 A* (PriorityQueue with path costs & heuristics) | `feature/ucs-astar` | `search.py` |
+| **Member 3 (Gajanayake H.K.D.W.R)** | IT24510235 | Q5 CornersProblem (State Space Representation & Successor Logic) | `feature/corners` | `searchAgents.py` |
+| **Member 4 (Wickramasinghe W.S.S.D)** | IT24400002 | Q6 Corners Heuristic & Q7 Food Heuristic, Git Lead & Packaging | `feature/heuristics` | `searchAgents.py` |
 
 ---
 

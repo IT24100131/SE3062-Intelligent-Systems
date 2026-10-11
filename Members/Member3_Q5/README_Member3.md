@@ -1,6 +1,6 @@
 # Member 3 - Q5 CornersProblem (Problem Representation)
 
-**Name:** Walimuniarachchi W.A.K.S  |  **Student ID:** IT24103947  |  **Group:** Group_AI_28
+**Name:** Gajanayake H.K.D.W.R  |  **Student ID:** IT24510235  |  **Group:** Group_AI_28
 
 ---
 

@@ -12,9 +12,9 @@
 | Member | Student ID | Assigned Questions | Feature Branch | Core Files Modified |
 | :--- | :--- | :--- | :--- | :--- |
 | **Basnayake K.S** | `IT24100131` | **Q1: DFS & Q2: BFS** (Uninformed Search, Stack & Queue) | `feature/dfs-bfs` | `search.py` |
-| **Wickramasinghe W.S.S.D** | `IT24400002` | **Q3: UCS & Q4: A\*** (Cost-sensitive, PriorityQueue, $f=g+h$) | `feature/ucs-astar` | `search.py` |
-| **Walimuniarachchi W.A.K.S** | `IT24103947` | **Q5: CornersProblem** (Compact & hashable state space representation) | `feature/corners` | `searchAgents.py` |
-| **Gajanayake H.K.D.W.R** | `IT24510235` | **Q6: Corners Heuristic & Q7: Food Heuristic** (+ Git Lead & Packaging) | `feature/heuristics` | `searchAgents.py` |
+| **Walimuniarachchi W.A.K.S** | `IT24103947` | **Q3: UCS & Q4: A\*** (Cost-sensitive, PriorityQueue, $f=g+h$) | `feature/ucs-astar` | `search.py` |
+| **Gajanayake H.K.D.W.R** | `IT24510235` | **Q5: CornersProblem** (Compact & hashable state space representation) | `feature/corners` | `searchAgents.py` |
+| **Wickramasinghe W.S.S.D** | `IT24400002` | **Q6: Corners Heuristic & Q7: Food Heuristic** (+ Git Lead & Packaging) | `feature/heuristics` | `searchAgents.py` |
 
 ---
 

@@ -1,6 +1,6 @@
 # Q6 cornersHeuristic + Q7 foodHeuristic (goes into searchAgents.py)
 # Excerpt of the final integrated code in Group_Project/search/. Not runnable on its own.
-# Member 4: Gajanayake H.K.D.W.R (IT24510235) - Heuristic Design & Final Integration Lead
+# Member 4: Wickramasinghe W.S.S.D (IT24400002) - Heuristic Design & Final Integration Lead
 
 from typing import Any, Tuple, List
 import search

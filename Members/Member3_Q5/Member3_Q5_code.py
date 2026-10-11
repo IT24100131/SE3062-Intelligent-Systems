@@ -1,6 +1,6 @@
 # Q5 CornersProblem (goes into searchAgents.py)
 # Excerpt of the final integrated code in Group_Project/search/. Not runnable on its own.
-# Member 3: Walimuniarachchi W.A.K.S (IT24103947) - Q5 Finding All the Corners (Problem Representation)
+# Member 3: Gajanayake H.K.D.W.R (IT24510235) - Q5 Finding All the Corners (Problem Representation)
 
 import search
 import pacman

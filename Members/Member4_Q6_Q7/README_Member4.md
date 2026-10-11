@@ -1,6 +1,6 @@
 # Member 4 - Q6 Corners Heuristic & Q7 Food Heuristic (+ Git Lead & Packaging)
 
-**Name:** Gajanayake H.K.D.W.R  |  **Student ID:** IT24510235  |  **Group:** Group_AI_28
+**Name:** Wickramasinghe W.S.S.D  |  **Student ID:** IT24400002  |  **Group:** Group_AI_28
 
 ---
 

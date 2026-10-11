@@ -5,7 +5,7 @@
 ## What I was responsible for
 Implemented the two uninformed graph-search algorithms that all later algorithms build on.
 
-## Files / functions I edited
+## Assigned files / functions
 - `search.py` -> `depthFirstSearch(problem)` (Q1)
 - `search.py` -> `breadthFirstSearch(problem)` (Q2)
 - Full code: `Member1_Q1_Q2_code.py`
