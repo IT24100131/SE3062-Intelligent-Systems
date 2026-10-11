@@ -36,8 +36,8 @@ def depthFirstSearch(problem: SearchProblem):
 def breadthFirstSearch(problem: SearchProblem):
     """Search the shallowest nodes in the search tree first."""
     "*** YOUR CODE HERE ***"
-    # Q2 (Member 1): identical skeleton to DFS, but the fringe is a FIFO Queue,
-    # so the shallowest node is expanded first (optimal for unit step costs).
+    # Q2 (Member 1 - IT24100131): Graph-search BFS using util.Queue (FIFO).
+    # Nodes are expanded level-by-level, guaranteeing optimal path for unit step costs.
     fringe = util.Queue()
     fringe.push((problem.getStartState(), []))
     expanded = set()
